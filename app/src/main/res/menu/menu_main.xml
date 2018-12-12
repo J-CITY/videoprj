@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="io.milkpp.kofes.eduject.MainActivity">
+    <item android:id="@+id/action_reflect_h"
+          android:title="@string/action_reflect_v"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+    <item android:id="@+id/action_reflect_v"
+          android:title="@string/action_reflect_h"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+</menu>

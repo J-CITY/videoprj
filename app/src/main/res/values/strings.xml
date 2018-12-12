@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Videoprj</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="image_loaded">Image loaded</string>
+    <string name="image_saved">Image saved</string>
+
+    <string name="err_bad_path">Error: bad path</string>
+    <string name="err_bad_file_name">Error: bad file name</string>
+
+    <string name="ui_enter_file_name">Enter file name</string>
+    <string name="ui_ok">OK</string>
+    <string name="ui_cancel">Cancel</string>
+
+    <string name="hint_file_name">File name</string>
+
+
+    <string name="action_reflect_h">Reflect H</string>
+    <string name="action_reflect_v">Reflect V</string>
+</resources>
